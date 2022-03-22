@@ -27,3 +27,4 @@
 - Hell is empty, and all the devils are here
 - Alas poor Yorick, I knew him Horatio
 - Call me Ishmael
+- Look on my works, ye mighty, and despair
