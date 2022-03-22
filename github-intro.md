@@ -21,3 +21,6 @@
   - git add .
   - git commit -m "message" (goal of message: human communication)
   - git push origin main (not always main)
+
+### Literature
+- It was the best of times, it was the worst of times
