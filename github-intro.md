@@ -25,3 +25,4 @@
 ### Literature
 - It was the best of times, it was the worst of times
 - Hell is empty, and all the devils are here
+- Alas poor Yorick, I knew him Horatio
